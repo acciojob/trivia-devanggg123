@@ -1,6 +1,9 @@
 
 /* Your CSS Code here. */
 .p{
+	font-weight:900;
+}
+.r{
 	font-weight:bold;
 }
 .ans{
